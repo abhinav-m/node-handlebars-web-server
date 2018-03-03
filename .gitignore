@@ -1,0 +1,4 @@
+# Node modules directory
+node_modules/
+
+server.log
